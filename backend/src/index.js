@@ -10,6 +10,6 @@ const PORT = process.env.PORT || 3000;
 
 // app.listen()
 app.listen(PORT, () => {
-    // Server is running if we reach this point 
-    console.log("Server is running on port " + PORT); 
+    // Server is running if we reach this point
+    console.log("Server is running on port " + PORT);
 });
