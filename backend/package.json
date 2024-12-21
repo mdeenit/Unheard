@@ -1,0 +1,25 @@
+{
+  "name": "jarupongdeenit_t3a2-a",
+  "version": "1.0.0",
+  "description": "As an aspiring developer, it is important to be able to communicate and demonstrate your abilities to prospective employers.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.11.0",
+    "mongoose": "^8.8.4"
+  }
+}
