@@ -2,7 +2,7 @@
   "name": "jarupongdeenit_t3a2-a",
   "version": "1.0.0",
   "description": "As an aspiring developer, it is important to be able to communicate and demonstrate your abilities to prospective employers.",
-  "main": "index.js",
+  "main": "src/index.js",
   "directories": {
     "doc": "docs"
   },
@@ -20,6 +20,6 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "mongodb": "^6.11.0",
-    "mongoose": "^8.8.4"
+    "mongoose": "^8.9.1"
   }
 }
